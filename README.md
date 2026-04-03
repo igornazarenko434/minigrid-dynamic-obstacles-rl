@@ -12,7 +12,7 @@
 
 **Igor Nazarenko & Yuval Amit** | Reichman University
 
-[Report (PDF)](report/report.pdf) &bull; [Training Notebook](notebooks/training.ipynb) &bull; [Evaluation Notebook](notebooks/evaluation.ipynb) &bull; [Results](#-key-results)
+[Report (PDF)](report/report.pdf) &bull; [Training Notebook](notebooks/training.ipynb) &bull; [Evaluation Notebook](notebooks/evaluation.ipynb) &bull; [Results](#key-results)
 
 </div>
 
@@ -24,14 +24,14 @@
 
 ## Table of Contents
 
-- [Key Results](#-key-results)
-- [Problem Setup](#-problem-setup)
-- [Architecture](#-architecture)
-- [Methods](#-methods)
-- [Ablation Studies](#-ablation-studies)
-- [Getting Started](#-getting-started)
-- [Repository Structure](#-repository-structure)
-- [Authors](#-authors)
+- [Key Results](#key-results)
+- [Problem Setup](#problem-setup)
+- [Architecture](#architecture)
+- [Methods](#methods)
+- [Ablation Studies](#ablation-studies)
+- [Getting Started](#getting-started)
+- [Repository Structure](#repository-structure)
+- [Authors](#authors)
 
 ---
 
