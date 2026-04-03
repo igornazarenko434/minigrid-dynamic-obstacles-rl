@@ -1,0 +1,9 @@
+torch>=2.0
+gymnasium>=0.29
+minigrid>=2.3
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.12
+imageio>=2.31
+opencv-python>=4.8
+pandas>=2.0
